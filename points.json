@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "points",
+"features": [
+{ "type": "Feature", "properties": { "cat": 1, "x": 66.737537422973119, "y": 63.062335345706401, "label": "McDonalds" }, "geometry": { "type": "Point", "coordinates": [ 66.737537422973119, 63.062335345706401 ] } },
+{ "type": "Feature", "properties": { "cat": 2, "x": 33.832948058061646, "y": 36.329685717099565, "label": "IHop" }, "geometry": { "type": "Point", "coordinates": [ 33.832948058061646, 36.329685717099565 ] } },
+{ "type": "Feature", "properties": { "cat": 3, "x": 50.123607630941557, "y": 15.026515506410448, "label": "Taco Bell" }, "geometry": { "type": "Point", "coordinates": [ 50.123607630941557, 15.026515506410448 ] } },
+{ "type": "Feature", "properties": { "cat": 4, "x": 4.5410890183641044, "y": 30.690611249564213, "label": "Pizza Hut" }, "geometry": { "type": "Point", "coordinates": [ 4.541089018364104, 30.690611249564213 ] } }
+]
+}
